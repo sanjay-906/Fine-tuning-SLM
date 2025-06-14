@@ -2,7 +2,7 @@
 
 Supervised fine-tuning and Direct preference optimization
 
-Dataset: https://huggingface.co/datasets/domenicrosati/TruthfulQA<br>
+Dataset: (https://huggingface.co/datasets/truthfulqa/truthful_qa)<br>
 model: https://huggingface.co/Qwen/Qwen2.5-3B<br>
 Training stage: Pre-training<br>
 Dataset length = 817 fields
